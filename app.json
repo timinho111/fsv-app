@@ -8,9 +8,9 @@
         "scheme": "myapp",
         "userInterfaceStyle": "automatic",
         "splash": {
-            "image": "./assets/images/splash.png",
-            "resizeMode": "contain",
-            "backgroundColor": "#ffffff"
+            "image": "./assets/images/fsv_splash.png",
+            "resizeMode": "cover",
+            "backgroundColor": "#2c2462"
         },
         "updates": {
             "fallbackToCacheTimeout": 0
@@ -32,6 +32,6 @@
                     "include": ["@ui-kitten/components"]
                 }
             }
-        }
+        },
     }
 }
